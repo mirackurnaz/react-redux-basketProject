@@ -1,0 +1,38 @@
+.createTaskDiv{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+ 
+  
+}
+.headerDiv{
+  display: flex;
+  justify-content: center;
+}
+.formCreateTask{
+  border: 1px solid teal;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.headers{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  background-color: teal;
+  color: white;
+  padding: 20px;
+width: 100%;
+}
+.form-control{
+  width: 500px;
+  margin-top: 10px;
+  border: 1px solid teal;
+  border: none;
+}
+.btn{
+width: 100%;
+background-color: teal;
+color: white;
+margin-top: 15px;
+}

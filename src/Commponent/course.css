@@ -1,0 +1,19 @@
+.cardd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+   
+}
+.header{
+    
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+   
+    
+}
+
+
+
